@@ -1,3 +1,0 @@
-ip: 100.70.31.58
-magictalscaler: desktop-l4h7ea0.tailcda012.ts.net
-porta: 9013
